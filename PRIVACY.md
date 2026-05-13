@@ -6,7 +6,7 @@ This Privacy Policy describes how MC Kuhl ("we", "us", or "our") collects, uses,
 
 ## Information We Collect
 
-We collect the mobile phone number(s) that the account owner manually configures within the application. We do not collect mobile numbers from any third-party source, public directory, or lead list.
+We collect mobile phone numbers from the account owner and from beta testers who have separately and explicitly opted in via email, TestFlight, or a similar channel. We do not collect mobile numbers from any third-party source, public directory, or lead list.
 
 We may also collect:
 - Message delivery status and timestamps for operational purposes
