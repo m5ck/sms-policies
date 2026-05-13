@@ -44,7 +44,7 @@ We may update these Terms at any time. The effective date above reflects the mos
 
 ## Governing Law
 
-These Terms are governed by and construed in accordance with the laws of the State of [YOUR STATE], United States, without regard to its conflict of laws principles.
+These Terms are governed by and construed in accordance with the laws of the State of Florida, United States, without regard to its conflict of laws principles.
 
 ## Contact
 
